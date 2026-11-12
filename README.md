@@ -1,16 +1,55 @@
-## Hi there 👋
-
-<!--
-**cacique01/cacique01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABTElEQVR4nO1WMU7EMBCc8YE4EDquQiAKfoNES01NRQm0fIAaUfAFBF/gAXwDCQpartqhwD7sCCUbgpIrspLlzO5mPbbXa1MShpQw6OhVAtXV6ANz3IKRADBM8hUESBZKJ95vsG944gWPU8RWwa+SZhV/y/CRZ1JFDpBEDd4kab/Y7wDMABjJAOAJwAWAt4Z4IPldBxKz5ODERnIO4ENS2soAIK3UO8m9pnjLHMjZ1eAXACcRJ4dFxLeZP0meOeJhDX4xAFMAnwAmmX472s5T/Ni7SmwbAusATgFcZbpF7C8zXYjt0BO0y10g/Mz2z9KlEnYevCuBf5HxPbBaW1AjBy39k1w3eqRS7GhTSSF+TyTtSnqI+FjSs6S5pBtJj5J2PHEhCWZWKFviezNjxb7l/X+ZhJKKet0XLk7BICRW4hjmb4K+8WqswEhgSPkC0wTlmyIq13MAAAAASUVORK5CYII=)  
+ [  
+   ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAdklEQVR4nGP8//8/w////xkYGRkZYICefMb///8zDCRggrkIGdCTP/RD4Ob7+6qk6r/z4ZEciiQlWG+J/z8y9PyFsSkOAWV+uT2k6lfml7sAYw/9NEApfzQERkNgNARGQ2A0BEZDYDQERkNgNARGQ2A0BAY8BADchw5iyCF+igAAAABJRU5ErkJggg==)  
+   
+ ](https://github.com/cacique01 "https://github.com/cacique01")  
+[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACi0lEQVR4nO2XPWhTURTHf/flxa8iRaqBVieHFqmLoFtAKBQqcXCwUDJYCkIqpWSw4KqLYIa6CFYsYjeXDA5FKHF1DxIodbBoP4L1o5XSkibNcUjezXsvifXmBSnoWZIf57xz//eec++7Tw0PDwsB7PHGiSCPYwV6ug32X4AF+HsgAIsxW4DyJQzAypgPRQmgsizupTViAZHKjzHb1RyByqA0K2P2lEDE21+m3Ip5BCjlnagpBxbQzOLxOKlU6uBApeief0rPwmxtgEgXAJGXDwE8PkD3wG8tl8uRTqexbZtSqdQgQgBFz9sXFR0eV6VMyq4OZXlX7cAVUEqRzWYpFAqMjIw0HRxg/fod1gbG2JpNa2954xsnb9/UXPqcNxMwODio/8diMTo7O/0ScbbXsatXANh+Ne/xdwxFm+Z3nwNu0zw6OgogMzMzLC4ukkwm6+IF5eWySOhspCah43jT/FZ1K+nCuNm2bUKhEIAaHx+nr6+P3t5eT3wVPApOp+6qrgeTmvdXv9SdI0685dtK4nAikSAcDsvU1JR2xuNxmZub881EHBGgkCOXLnD08kXs8+e0/8ej53Uzr44q/h7QaqLRKLu7u2plZYWJiQntz2Qy/snrvKeSt9SZ6XusDYw5Z4QCRfHDp7r8Dof6+/vv08AymQx7e3sAFItF8vl8ozCGdsI6b+H9EjsL79jPf2X/+ybFpWUdV978SenjKuWtbUrLqzUF7bwTdr95xvq1hNHzlus8FxHBlDUg4h5cEN9OEel+/aTOb7uaUPka0ogVPmcDXr8xWef/uxeSBm/PQ3Mj+scFON3stLUZ+5rdkC2o3WyctjbjJtfDP+TDUYJ2WKufU20Q4HobtsC/AGZ7MiHGsDSkAAAAAElFTkSuQmCC)](https://instagram.com/davitech_ti "https://instagram.com/davitech_ti")  
+   
+ [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAB8UlEQVR4nO2WMWgTURjHf69nEhrPiBBBFAJOBoKa0g6KHipCHRy0pSclTQZBnRRcBQXdhLiITlkUbSOS0IgFwSEOilvwili0FBxEh0RFEUNTc7nnUPvqNWlzQxfx/svH93/f+7/fvRvuhGmaEo+aPfHL66hn9ax7og/gA/gAPsC/BrBhtYVAIECz2Vx1463Dl0lG4xjFNM9HxhF/fD0Ypi8/DEBltEiPEHxb+MHRydO8GBkHwCimVU7HG8hms2iatia5saOfSEhnMHaASHAjejCMHgwz9/2DmrGlTd2eJ9q7BQAhBJGQ7srpCBCLxdY8HGDggYmUkmv7LwBwcuo8fflhTj25qGb2PRzFKKSRcvF7d+zRmbacjgDlcrkrgO3YzNsNerWQ8u4NXnfVJeXfTQFwaeCcN4BcLtcVAODGqzsIIVS/J7rLVdWcdReA4zsPeQPwqm3hqKtP5odcdUmOdAA4WBhbPwBjez9nd5u0nNZfYcu3sfI1LEq0OR0BMplMV4DbR66QnBjipnVfedZYCSs1CcDerXGmUyWmUyW1/tKcaMvREonE1ZWmlJJarYbjOC7/a3z5aa3Pb/n0s8rrL7NIJJXqDI3WAptDmyjMPQUkH+tV6s0Gj98/U/sq1TdUajOqF/4/oQ/gA/gAPsB/D/AbxvqUJk0PSI8AAAAASUVORK5CYII=)  
+   
+ ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABOElEQVR4nO2WMUvDQBTHf7kGRDJYRRxLZjsI7vEDuOiSNolfyz1TORoIOPoB7CZCSxaHgIODOAcrknAO0kqMNEegg3hvuvvfvfd+9+4dnOX7vmJL9njx0bpHbCu5rhkAA2AADMDfAbAs68tBCIToxv0Qpg3N1nUOgoDFYkG/3wdgNpsBkCQJSinG43FrjJ7odQeQUjIcDteJV1aWJVEUacU4mVw2tM494DgOQghsW+8MBzt7AJy7Z90AptNpbR7HMVJKRqORlv/h7j4Ap0fH3QB+u+NVYyZJ0ur/XLwAcPt0V9O1e+CnhWGI67oAKNX+p3kr3wG4f81q+sYKSCnX48FgUFurqoo8z/E8TwsYYH5109A2ViBNv99tURQsl8vGnizLtJ4gwPV80tAs8yc0AAbAABiAfw/wCRmCUo3x/5vSAAAAAElFTkSuQmCC)](https://davitech.com.br "https://davitech.com.br")  
+  
+---  
+**👋 Sobre mim**  
+Sou o Davi, fundador da **DaviTech** (DaviTech TI). Transformo a rotina de pequenos negócios em **sistemas, sites e automações** que realmente são usados: vendas, estoque, fidelização, painéis de dados e apps instaláveis (PWA).  
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIVAG  
+- 🧩 Trabalho com clientes reais, de landing pages a sistemas de gestão  
+- 📊 Também atuo com análise de dados (Power BI, Python, Airflow)  
+- 📬 Quer um site ou sistema para o seu negócio? Me chama no [Instagram](https://instagram.com/davitech_ti "https://instagram.com/davitech_ti")  
+  
+---  
+**🚀 Projetos no ar**  
+  
+|  |  |  |  
+| - | - | - |  
+| **Projeto** |  **O que é** |  **Link** |  
+| 🌱 **Esterco Turbinado** |  Landing page de venda de adubo orgânico via WhatsApp |  [abrir](https://estercoturbinado.davitech.com.br "https://estercoturbinado.davitech.com.br") |  
+| 🛒 **Venda Adubo** |  Sistema de vendas, estoque e metas com login |  [abrir](https://vendaadubo.davitech.com.br "https://vendaadubo.davitech.com.br") |  
+| 📘 **Guia do Lote** |  Área pós-compra com guias em PDF por planta |  [abrir](https://guiaadubo.davitech.com.br "https://guiaadubo.davitech.com.br") |  
+| 🏆 **Comunidade Gatti** |  Fidelização com pontos, ranking e grupo |  [abrir](https://fidelizadosgatti.davitech.com.br "https://fidelizadosgatti.davitech.com.br") |  
+| 💪 **KinoraFit** |  PWA para acompanhar treinos e evolução de carga |  [abrir](https://kinorafit.davitech.com.br "https://kinorafit.davitech.com.br") |  
+  
+   
+  
+---  
+**🛠️ Stack**  
+![](data:image/png;base64,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)  
+   
+   
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABmElEQVR4nO2WTStEURjHf8+MpCwQSkLmxiw1X8BipljOB7CykM0VFjaSiA9AcreSkk9AkdwlH8DWTCEvW28zGD0W1z1zZ5JiarI4T93u+Z//eW7P8zunzpWHszYFFBDKUTcdC8aBUOPVT8eiXlBifbUlYAlYApbAjwTSrkNmKgEgadfhvRTMAfJcFNKuEz5mvSoV+aDG/zUBANVQK6MzjpkeW+wjEmZ9ZsoxuiGuYcF/IxDGU0HE9/IADA0UAOThJW5838sJwImXC6cE4GgjHw7/TgAgO9dv9NrsbYAjEiPTieqqFWB8pYfB3tfaCWhEx0TZOWit8EsfYvbc9y5M/uV9Ix0tpdoIbC1c0dP5HulY2N5v00ij+F5Ov94Ve+57OU7Pm2sjkOh+Y2fpuopu0PHeymW5KpNfvefV/q/PgCCCfnVm/NXJO7raPwBIu863ZyDjOhX6OwLx+Ymm5bAjBSTSIUAqWQBEdg9bOd7MGz87/GiqTA0WJZUslnWyaPLXZ28AMX70+wqI/Sf813eBJWAJWAKWQD30J/RUt3kemxCaAAAAAElFTkSuQmCC)  
+ ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABsUlEQVR4nO1XsU7DMBB9dhPUliCliIWlMHRiYkYVYuuK2BhYkPgDRlrUZkN8ASMzIyNsfAB8AwMbpCDRqiU+BqeJnaahDNgduCV+9uX55e58chg7eyVYNG5z8xwB2WD8Pc4IYGQaZ1PATONFq4F/AXYFmD+DGQHGT0BWwEwTQQ0iqAEARl0fDyeetqYaZ8BFq6y9I4Iaop6fy/3rGnA4w07dLfQ5bVbw3BcJHn4RGGNTIcgTUJg3ziSmnPVWw9HwxmUfREQAUO2GAIDdzdIU/1ydMOaBIInfhxJHPT/xvz3yNP+o54MxpvFd7S/P7ISFX965HyRYEGEUxYpSfirxlHslCAn63gQAjVWuYSBNQWHFtvcqKSZgrSrZS+03zd+N2T46NaasJetKQJLBXEXIFS+hE2l2d+xNqwdwsOViHOXfeyT1Dy1jqROm4/MwqQnVn4jQrDu5m9wcerh+HOXys3mvZFUX+BzPni87sgd8jtO5yXN7nePpRaDsAoMMhxRA0ONmEMsUWGnCqgCLpvYBtRaMYR5PM0wCYxhzm/mXAixdRFQBVmOwcH9GMI0Xpg9Ys2886MKQMeAcIwAAAABJRU5ErkJggg==)  
+ ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABRElEQVR4nGOM4j/xn2EAAdNAWj5YHIASA//pzWdiYGBEFmCkN38wRMGoAwaPA+ieAxgY/jMwMSBEGRn+MzLQm8/EgJwvGJFIIvlLP5gz9l/QZ9C05oXzGRgYGJZ+MEfh49JPlTQgpsDBcP3oZ5zy/GKsOOXQHYBeMRHkRwuchHP4RFmwqp92ywinfnQHMFLCn3bLiGT9MAeQ7HMYY+kHc4b/////Z2BgYGBkZGT4+Po3w+RrhnD5CbG34PLY9MMcQLbPv3/+yxAjeArOz1I9xyAkxcZ499wXBgYGBoboNnkGRkZGnPpZGCgEKbJnsIrXOV2F5AQCAOqA/wyonqSUjwDRAicZbCJE0EQR6hmp2SRj42Ri+PX9HwaND1C1LoBZhk7TzQHkgEHjgP8MqHmdbnxYNqSoBKSEP2iiYNQBow4YuQ4AAFMNmwnaKCI2AAAAAElFTkSuQmCC)  
+  
+---  
+**📈 GitHub em números**  
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAACqCAYAAADMUU1KAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACYElEQVR4nO2b23LDMAhEUcb//8lRn5yRMchWGufI7TLTcXSxsl1AF0TK8/k0UkqtFQWw0ABwBh7ot7cAIiYydmqtr7+sb6+tFVwFuBHiNoCrAGdAAHAAuBviXoAzgNuAVDCPCtZnKWVTzura+qy/b/PjlFJ4G8BVgAPAvQC3gR0DpZTuLvbTMh8D3xbcC3AV4AzIBgRAXoADwN1QNiAAi1m836+1bp5tv6Oyl94uq9DRclwFckN8JsQZmMMGevcC/unrfH1WjsY1m4UBUnAvkAoEQADkhmJADOAM4POAVLBTQXvfk33O+p+p3/WbjoFvC24DUoFUgKsABzC/DbRhujP1o5KqYJSZLAYQ5R62Ii8QgMVbcy95xQevvfh324B3K+24MsIdgF5ML5ORd3bqoO8LZAOHq+FVWTUvN72tCo4y78+KvAD3AgGYf1d8tcylgs1OJbm6jySbrrNr/lVqrfxE9Bg93Yz0X/v6YNemLCOMttJXS/s9uArCvOJVooPFuyxl4+IM4EbY/cHjNwSfCe9rA6O732lzye6rgr8DwAcSswQk3ycrR8lPvadsAAeAH0xwBk4B+MS9QDo2rQLZAK4CnIFDAFczpA0J7oZi4GHWj2T00nqi9uydrG2JBl8lCmCtn7MT83ryjQJeHtAUQarikWdypt1sfOl+/cwnotUPftTXU33mVhZ3w+5aMHIB+a7gRsgvx9EEYbYNqUaW3bP2M/3vYYQC8C8A4PuBEs3zbdksX357S3hvbdkA+PczoSYiHMCv3DDKF8tyx95OaPzEXrG7ctJueKkXHP33ZmY/zVKaCd2scicAAAAASUVORK5CYII=)  
+ ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAACqCAYAAADMUU1KAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACYElEQVR4nO2b23LDMAhEUcb//8lRn5yRMchWGufI7TLTcXSxsl1AF0TK8/k0UkqtFQWw0ABwBh7ot7cAIiYydmqtr7+sb6+tFVwFuBHiNoCrAGdAAHAAuBviXoAzgNuAVDCPCtZnKWVTzura+qy/b/PjlFJ4G8BVgAPAvQC3gR0DpZTuLvbTMh8D3xbcC3AV4AzIBgRAXoADwN1QNiAAi1m836+1bp5tv6Oyl94uq9DRclwFckN8JsQZmMMGevcC/unrfH1WjsY1m4UBUnAvkAoEQADkhmJADOAM4POAVLBTQXvfk33O+p+p3/WbjoFvC24DUoFUgKsABzC/DbRhujP1o5KqYJSZLAYQ5R62Ii8QgMVbcy95xQevvfh324B3K+24MsIdgF5ML5ORd3bqoO8LZAOHq+FVWTUvN72tCo4y78+KvAD3AgGYf1d8tcylgs1OJbm6jySbrrNr/lVqrfxE9Bg93Yz0X/v6YNemLCOMttJXS/s9uArCvOJVooPFuyxl4+IM4EbY/cHjNwSfCe9rA6O732lzye6rgr8DwAcSswQk3ycrR8lPvadsAAeAH0xwBk4B+MS9QDo2rQLZAK4CnIFDAFczpA0J7oZi4GHWj2T00nqi9uydrG2JBl8lCmCtn7MT83ryjQJeHtAUQarikWdypt1sfOl+/cwnotUPftTXU33mVhZ3w+5aMHIB+a7gRsgvx9EEYbYNqUaW3bP2M/3vYYQC8C8A4PuBEs3zbdksX357S3hvbdkA+PczoSYiHMCv3DDKF8tyx95OaPzEXrG7ctJueKkXHP33ZmY/zVKaCd2scicAAAAASUVORK5CYII=)  
+ ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA0klEQVR4nO2WvQ7CMAyEzxWwMiAkWHj/R2NiYCJ0OIb+0DgMEME5Ax5afbYsnXqOG7ultNkfTgljEKTBTMUdXCyLCi4EqOMvoA0BdEkldwBgQ45TQcmrZ254cHjL2M8ArYKvl3N1fy6AMC4dEnAuwMBMo4C9BZYvyveY83h93v+VPbDdHat721hECNxFkwB3OnTcjAVhHswCojwoLKDT+msuZ6Dqb1DPpQCjlF/diqXczjEMFhB3KxwFhG3iZiwA6L6Tiper2OaSkI0k7n2/RlA8ABhuxHSGZbZDAAAAAElFTkSuQmCC)  
+  
+---  
+**🐍 Contribuições**  
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAxElEQVR4nO1W0Q6AIAiE/v+bpaeaYyYc6NLVvbRm484DL1lEKAIRIWaG1zQ4IgAhsHCMJkc31BXQKmbtvF73iOkKQIvV8LbpFqAJ9Dvac2Z2iQ4N4UiYQ2gJ9G7g6TsupQw7UpHjefTCBCEmwueEaPAMhBzQBVDC+tkit2pOOQWXEx5H0gIy/ScK/Atq0os4k5ihHOilHJyYyyfhTIjIJg48idQ5EME6DrwlZB0HthaQcRG+FbeQuaZ/ewb2ScJfQBSe9p77EZ7a26s/yQAAAABJRU5ErkJggg==)  
+  
+---  
+**💬 Vamos tirar sua ideia do papel?** → [@davitech_ti](https://instagram.com/davitech_ti "https://instagram.com/davitech_ti")  
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAUUlEQVR4nO2UMQ4AMAgCsf//sx26NH2AkPTcmLwgUt0t5yzrdgAkrTcD07oIoXRsuZ2Y1JwAAAAyAJx1nNUDDieyHPgbwPUJZACALACaEADHbM/qvH2j2FrQAAAAAElFTkSuQmCC)  
