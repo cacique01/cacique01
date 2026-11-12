@@ -14,7 +14,7 @@
 
 ## 👋 Sobre mim
 
-Sou o Davi, fundador da **DaviTech** (Davi TI ADS). Transformo a rotina de pequenos negócios em **sistemas, sites e automações** que realmente são usados: vendas, estoque, fidelização, painéis de dados e apps instaláveis (PWA).
+Sou o Davi, fundador da **DaviTech** (DaviTechi TI). Transformo a rotina de pequenos negócios em **sistemas, sites e automações** que realmente são usados: vendas, estoque, fidelização, painéis de dados e apps instaláveis (PWA).
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIVAG
 - 🧩 Trabalho com clientes reais, de landing pages a sistemas de gestão
