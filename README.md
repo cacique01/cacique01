@@ -51,21 +51,6 @@ Sou o Davi, fundador da **DaviTech** (DaviTechi TI). Transformo a rotina de pequ
 
 ---
 
-## 📈 GitHub em números
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cacique01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2ea44f&icon_color=2ea44f&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cacique01&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2ea44f" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=cacique01&theme=github-dark&hide_border=true&background=0d1117&ring=2ea44f&fire=2ea44f&currStreakLabel=2ea44f" />
-
-</div>
-
----
-
 ## 🐍 Contribuições
 
 <div align="center">
