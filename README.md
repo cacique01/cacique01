@@ -12,30 +12,30 @@
 
 ---
 
-## 👋 Sobre mim
+## Sobre mim
 
 Sou o Davi, fundador da **DaviTech** (DaviTechi TI). Transformo a rotina de pequenos negócios em **sistemas, sites e automações** que realmente são usados: vendas, estoque, fidelização, painéis de dados e apps instaláveis (PWA).
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIVAG
-- 🧩 Trabalho com clientes reais, de landing pages a sistemas de gestão
-- 📊 Também atuo com análise de dados (Power BI, Python, Airflow)
-- 📬 Quer um site ou sistema para o seu negócio? Me chama no [Instagram](https://instagram.com/davitech_ti)
+- Cursando Análise e Desenvolvimento de Sistemas na UNIVAG
+- Trabalho com clientes reais, de landing pages a sistemas de gestão
+- Também atuo com análise de dados (Power BI, Python, Airflow)
+- Quer um site ou sistema para o seu negócio? Me chama no [Instagram](https://instagram.com/davitech_ti)
 
 ---
 
-## 🚀 Projetos no ar
+## Projetos no ar
 
 | Projeto | O que é | Link |
 |---|---|---|
-| 🌱 **Esterco Turbinado** | Landing page de venda de adubo orgânico via WhatsApp | [abrir](https://estercoturbinado.davitech.com.br) |
-| 🛒 **Venda Adubo** | Sistema de vendas, estoque e metas com login | [abrir](https://vendaadubo.davitech.com.br) |
-| 📘 **Guia do Lote** | Área pós-compra com guias em PDF por planta | [abrir](https://guiaadubo.davitech.com.br) |
-| 🏆 **Comunidade Gatti** | Fidelização com pontos, ranking e grupo | [abrir](https://fidelizadosgatti.davitech.com.br) |
-| 💪 **KinoraFit** | PWA para acompanhar treinos e evolução de carga | [abrir](https://kinorafit.davitech.com.br) |
+| **Esterco Turbinado** | Landing page de venda de adubo orgânico via WhatsApp | [abrir](https://estercoturbinado.davitech.com.br) |
+| **Venda Adubo** | Sistema de vendas, estoque e metas com login | [abrir](https://vendaadubo.davitech.com.br) |
+| **Guia do Lote** | Área pós-compra com guias em PDF por planta | [abrir](https://guiaadubo.davitech.com.br) |
+| **Comunidade Gatti** | Fidelização com pontos, ranking e grupo | [abrir](https://fidelizadosgatti.davitech.com.br) |
+| **KinoraFit** | PWA para acompanhar treinos e evolução de carga | [abrir](https://kinorafit.davitech.com.br) |
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 <div align="center">
 
@@ -51,7 +51,7 @@ Sou o Davi, fundador da **DaviTech** (DaviTechi TI). Transformo a rotina de pequ
 
 ---
 
-## 🐍 Contribuições
+## Contribuições
 
 <div align="center">
 <picture>
@@ -65,7 +65,7 @@ Sou o Davi, fundador da **DaviTech** (DaviTechi TI). Transformo a rotina de pequ
 
 <div align="center">
 
-**💬 Vamos tirar sua ideia do papel?** → [@davitech_ti](https://instagram.com/davitech_ti)
+** Vamos tirar sua ideia do papel?** → [@davitech_ti](https://instagram.com/davitech_ti)
 
 
 </div>
