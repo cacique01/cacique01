@@ -18,7 +18,8 @@ Sou o Davi, fundador da **DaviTech** (DaviTechi TI). Transformo a rotina de pequ
 
 - Cursando Análise e Desenvolvimento de Sistemas na UNIVAG
 - Trabalho com clientes reais, de landing pages a sistemas de gestão
-- Também atuo com análise de dados (Power BI, Python, Airflow)
+- Também atuo com análise de dados (Power BI, Python)
+- A disposição para uma vaga na área do desenvolvimento.
 - Quer um site ou sistema para o seu negócio? Me chama no [Instagram](https://instagram.com/davitech_ti)
 
 ---
