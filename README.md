@@ -66,7 +66,7 @@ Sou o Davi, fundador da **DaviTech TI**. Transformo a rotina de pequenos negóci
 
 <div align="center">
 
-** Vamos tirar sua ideia do papel?** → [@davitech_ti](https://instagram.com/davitech_ti)
+**Vamos tirar sua ideia do papel?** → [@davitech_ti](https://instagram.com/davitech_ti)
 
 
 </div>
